@@ -6,20 +6,20 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=ffffff&&center=true&Center=truewidth=100%&lines=Ol%C3%A1!!+Bem-vindo(a)+ao+meu+perfil!;Hello!!+Welcome+to+my+profile!;Me+chamo+Keven+e+tenho+19+anos.;My+name+is+Keven+and+I'm+19.;Aluno+do+PROA+e+FATEC.;Student+from+PROA+and+FATEC.)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevenAbraham&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevenzera&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenAbraham&theme=github_dark&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenzera&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
   
    <div align="center">
 <br><p align="center"><b>Passaram para dizer "Olá!"</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KevenAbraham}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kevenzera}/count.svg" /></p>
 <br>
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevenAbraham&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kevenzera&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <a href="mailto:cmp.1a.abraham.keven20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
